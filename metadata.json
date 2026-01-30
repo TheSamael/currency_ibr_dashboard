@@ -1,0 +1,5 @@
+{
+  "name": "Currency IBR Dashboard 2.0",
+  "description": "A professional dashboard for calculating Interbank Rates (IBR) between currencies using live ExchangeRate-API data. Features dynamic base currency selection, filtering, and Excel export.",
+  "requestFramePermissions": []
+}
